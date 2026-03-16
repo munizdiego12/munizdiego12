@@ -1,5 +1,6 @@
 # Olá, eu sou o Diego! 👋
-<img width="3968" height="1056" alt="banner" src="https://github.com/user-attachments/assets/c4b30a71-399c-492a-a139-307cd563aee8" />
+<img width="3968" height="1056" alt="banner1" src="https://github.com/user-attachments/assets/140fd188-17ee-47dd-a3f4-821f2573ac61" />
+
 
 ### 📊 Aspirante a Analista de Dados | Estudante de Ciência da Computação
 
