@@ -2,7 +2,7 @@
 
 ### 📊 Aspirante a Analista de Dados | Estudante de Ciência da Computação
 
-Estou no 3º semestre de Ciência da Computação e focado em transformar dados em insights estratégicos. Atualmente, estou aprimorando minhas habilidades em análise exploratória, visualização de dados e automação de processos.
+Estou no 4º semestre de Ciência da Computação e focado em transformar dados em insights estratégicos. Atualmente, estou aprimorando minhas habilidades em análise exploratória, visualização de dados e automação de processos.
 
 ---
 
@@ -19,8 +19,8 @@ Linguagens e ferramentas que utilizo para extrair valor dos dados:
 ---
 
 ### 🚀 No que estou trabalhando agora?
-- 🎓 Cursando o 3º semestre de Ciência da Computação.
-- 📉 Especializando-se em **Power BI** para dashboards interativos.
+- 🎓 Cursando o 4º semestre de Ciência da Computação.
+- 📉 Especializando-se em **BI** para dashboards interativos.
 - ⚡ Aprofundando em **Excel Avançado** para modelagem de dados.
 - 🐍 Desenvolvendo projetos de automação e análise com **Python**.
 
